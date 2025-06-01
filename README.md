@@ -1,7 +1,4 @@
 ## Hi there, I'm Adnan👋
-
-A college student who is passionate about computers  
-Currently learning data science and website development
 <!--
 **Hitchgernn/Hitchgernn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

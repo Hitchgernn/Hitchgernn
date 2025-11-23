@@ -1,1 +1,1 @@
-<div style="text-align:center;"> I wanna be a cat </div>
+<center> I wanna be a cat </center>

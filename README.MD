@@ -69,11 +69,3 @@
 <img src="https://raw.githubusercontent.com/Hitchgernn/Hitchgernn/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hitchgernn&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hitchgernn&layout=compact&theme=dracula" height="150" />
-</div>
-
-
-###

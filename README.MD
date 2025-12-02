@@ -10,7 +10,16 @@
 
 ###
 
-<p align="left">🎓 2nd-year Information Engineering student at Universitas Gadjah Mada  <br>✨ Creating bugs since 2022  <br>📚 Currently learning Backend Development & Machine Learning  <br>🎯 Goals: Building production-level AI systems & becoming a top AI Engineer  <br>🔥 Fun fact: My code works perfectly... until someone watches me run it</p>
+```js
+const aboutMe = {
+  name: "Adnan / Nanda",
+  university: "Universitas Gadjah Mada",
+  status: "2nd-year Information Engineering Student",
+  creatingBugsSince: 2022,
+  learning: ["Backend Development", "Machine Learning"],
+  goals: "Build production-level AI systems & become a top AI Engineer",
+  funFact: "My code works perfectly... until someone watches me run it",
+};
 
 ###
 

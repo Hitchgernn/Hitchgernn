@@ -2,9 +2,6 @@
 
 ###
 
-<p align="left">My name is Adnan / Nanda</p>
-
-###
 
 <h2 align="left">About me</h2>
 
@@ -13,6 +10,7 @@
 ```js
 const aboutMe = {
   name: "Adnan / Nanda",
+  onlineName: "Hitcgernn"
   university: "Universitas Gadjah Mada",
   status: "2nd-year Information Engineering Student",
   creatingBugsSince: 2022,

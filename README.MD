@@ -10,7 +10,7 @@
 ```js
 const aboutMe = {
   name: "Adnan / Nanda",
-  onlineName: "Hitcgernn"
+  onlineName: "Hitchgernn",
   university: "Universitas Gadjah Mada",
   status: "2nd-year Information Engineering Student",
   creatingBugsSince: 2022,

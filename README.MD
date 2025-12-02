@@ -20,6 +20,7 @@ const aboutMe = {
   goals: "Build production-level AI systems & become a top AI Engineer",
   funFact: "My code works perfectly... until someone watches me run it",
 };
+```
 
 ###
 

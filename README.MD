@@ -37,7 +37,7 @@ const aboutMe = {
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://stats.dooboo.io/api/github-stats?login=hitchgernn" width="450" />
 </div>
 

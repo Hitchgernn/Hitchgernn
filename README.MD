@@ -36,8 +36,8 @@ const aboutMe = {
 </picture>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hitchgernn&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=hitchgernn&layout=compact&langs_count=6&theme=radical" height="150" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hitchgernn&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Hitchgernn&layout=compact&langs_count=6&theme=radical" height="150" />
 </div>
 
 ###

@@ -35,5 +35,6 @@ const aboutMe = {
   <img alt="snake animation" src="https://raw.githubusercontent.com/Hitchgernn/Hitchgernn/output/snake-dark.svg" />
 </picture>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hitchgernn&theme=dark&show_icons=true)
 
 ###

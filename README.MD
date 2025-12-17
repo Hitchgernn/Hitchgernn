@@ -11,7 +11,7 @@
 const aboutMe = {
   name: "Nanda",
   onlineName: "Hitchgernn",
-  university: "Universitas Gadjah Mada",
+  university: "Gadjah Mada University",
   status: "2nd-year Information Engineering Student",
   creatingBugsSince: 2022,
   learning: ["Backend Development", "Machine Learning"],

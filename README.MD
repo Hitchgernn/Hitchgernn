@@ -35,12 +35,6 @@ const aboutMe = {
   <img alt="snake animation" src="https://raw.githubusercontent.com/Hitchgernn/Hitchgernn/output/snake-dark.svg" />
 </picture>
 
-###
-
-<div align="left">
-  <img src="https://stats.dooboo.io/api/github-stats?login=hitchgernn" width="450" />
-</div>
-
 
 
 ###

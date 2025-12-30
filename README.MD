@@ -14,7 +14,7 @@ const aboutMe = {
   university: "Gadjah Mada University",
   status: "2nd-year Information Engineering Student",
   creatingBugsSince: 2022,
-  learning: ["Backend Development", "Machine Learning"],
+  learning: ["Backend Development", "Machine Learning", "AI"],
   goals: "Build production-level AI systems & become a top AI Engineer",
   funFact: "My code works perfectly... until someone watches me run it",
 };

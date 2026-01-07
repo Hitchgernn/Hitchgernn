@@ -31,11 +31,13 @@ const aboutMe = {
 
 ###
 
-<center>
-![GitHub Stats](https://github-readme-stats-beta-henna-98.vercel.app/api?username=Hitchgernn&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats-beta-henna-98.vercel.app/api?username=Hitchgernn&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
 
-![Top Langs](https://github-readme-stats-beta-henna-98.vercel.app/api/top-langs/?username=Hitchgernn&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
-</center>
+<p align="center">
+  <img src="https://github-readme-stats-beta-henna-98.vercel.app/api/top-langs/?username=Hitchgernn&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
 
 ###
 
